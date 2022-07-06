@@ -159,16 +159,6 @@ footer {
   }
 }
 
-@keyframes grid-container {
-  from {
-    transform: translateY(100%);
-  }
-
-  to {
-    transform: translateY(0);
-  }
-}
-
 @keyframes footer {
   from {
     opacity: 0%;
