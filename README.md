@@ -1,7 +1,8 @@
 # four-card-feature
 four card feature challenge site
 
-A challenge task from Frontend Mentor site.
-Technology used: HTML/CSS
+A task from Frontend Mentor site.
 
+
+Responsive site created with HTML/CSS technology
 https://four-card-feature-arek.netlify.app/
